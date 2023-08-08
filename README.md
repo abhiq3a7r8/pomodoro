@@ -37,10 +37,3 @@ The JavaScript code handles the timer logic, user prompts for interval durations
 1. Clone or download the repository.
 2. Open the `index.html` file in a web browser.
 
-## Contributions
-
-Contributions and improvements to this project are welcome. Feel free to fork the repository, make enhancements, and submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
